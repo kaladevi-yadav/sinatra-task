@@ -1,0 +1,23 @@
+#wrapper{
+    width:66%;
+    margin:auto;
+}
+ 
+#header{
+    background-color:#ade;
+}
+ 
+#header>h1{
+    font-size:200%;
+}
+ 
+h2{
+    font-size:130%;
+    font-family:sans-serif;
+}
+ 
+#content{
+    margin:12px 0;
+    float:left;
+}
+ 
